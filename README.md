@@ -24,6 +24,16 @@
 
 <p align="center"><sub>Blue-team mindset · forensic curiosity · practical experience</sub></p>
 
+<h2>Current focus</h2>
+
+<p>My current focus is <strong>blue-team cybersecurity</strong>: building stronger cybersecurity and digital-forensics knowledge while gaining practical, hands-on experience.</p>
+
+<div align="center">
+  <img src="./assets/focus-map.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
+  <br />
+  <img src="./assets/focus-motion.svg" width="100%" alt="Animated map of current focus areas: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
+</div>
+
 <hr />
 
 <h2>About</h2>
@@ -47,6 +57,8 @@
 
 <div align="center">
   <img src="./assets/skills-motion.svg" width="100%" alt="Animated matching-palette skills strip for Python, JavaScript, HTML, CSS, Linux, Git, Solidity, blue-team security, and digital forensics" />
+  <br />
+  <img src="./assets/skills-wall.svg" width="100%" alt="Animated verified skills wall with more than twenty programming, systems, blue-team, forensics, networking, and web foundations" />
 </div>
 
 <br />
@@ -55,17 +67,11 @@
   <tr>
     <td width="33%" valign="top"><strong>Languages</strong><br /><sub>Python · JavaScript · Solidity · HTML · CSS</sub></td>
     <td width="33%" valign="top"><strong>Systems</strong><br /><sub>Linux · Ubuntu · Git · SQLite · CLI tooling</sub></td>
-    <td width="33%" valign="top"><strong>Applied skills</strong><br /><sub>Blue-team fundamentals · digital forensics · NLP/ML · Ethereum · IPFS</sub></td>
+    <td width="33%" valign="top"><strong>Security & forensics</strong><br /><sub>Blue-team foundations · digital forensics · Wireshark · Metasploit · OWASP Top 10 · SQLMap</sub></td>
   </tr>
 </table>
 
-<h2>Visual signals</h2>
-
-<div align="center">
-  <img src="./assets/focus-motion.svg" width="100%" alt="Animated map of current focus areas" />
-</div>
-
-<br />
+<h2>Project signals</h2>
 
 <div align="center">
   <img src="./assets/project-strip.svg" width="100%" alt="Animated strip of selected projects" />
