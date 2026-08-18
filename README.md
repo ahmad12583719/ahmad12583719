@@ -55,7 +55,7 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs,vscode,tryhackme,wazuh,burpsuite&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, IPFS, VS Code, TryHackMe, Wazuh, and Burp Suite" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs,vscode,tryhackme,burpsuite,wireshark,kali&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, IPFS, VS Code, TryHackMe, Burp Suite, Wireshark, and Kali Linux" />
 </div>
 
 <br />
