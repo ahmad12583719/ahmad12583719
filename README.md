@@ -1,55 +1,43 @@
+<!-- Ahmad Raza's username-matching GitHub profile repository -->
+
 <div align="center">
-  <img src="https://github.com/ahmad12583719.png?size=220" width="148" alt="Ahmad Raza's profile avatar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111827,100:0E7490&height=210&section=header&text=Ahmad%20Raza%20%7C%20Digital%20Fortress&fontColor=00F0FF&fontSize=34&fontAlignY=38&desc=Digital%20Forensics%20%7C%20Cybersecurity%20%7C%20Full-stack%20Experiments&descAlignY=59&descColor=CBD5E1&animation=fadeIn" alt="Ahmad Raza digital fortress banner" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/ahmad12583719.png?size=220" width="138" alt="Ahmad Raza's profile avatar" />
   <br /><br />
-  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00F0FF?style=for-the-badge&labelColor=0A0A0A" alt="Access granted" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED+%2F%2F+WELCOME+TO+THE+FORTRESS;Investigate.+Build.+Verify.;Securing+the+digital+realm%2C+one+line+of+code+at+a+time." alt="Animated profile introduction" />
+  <br /><br />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&labelColor=0A0A0A" alt="Active status" />
+  <img src="https://img.shields.io/badge/FOCUS-DIGITAL%20FORENSICS-00F0FF?style=for-the-badge&labelColor=0A0A0A" alt="Digital forensics focus" />
   <img src="https://img.shields.io/badge/CLEARANCE-CYBER%20CURIOUS-2563EB?style=for-the-badge&labelColor=0A0A0A" alt="Cyber curious clearance" />
 </div>
 
 <br />
 
-<div align="center">
-  <h1>⌬ Welcome to Ahmad Raza's Digital Fortress</h1>
-  <p><strong>Digital forensics · Cybersecurity · Full-stack experiments</strong></p>
-  <p><em>Securing the digital realm, one line of code at a time.</em></p>
-  <p>
-    <a href="https://github.com/ahmad12583719"><strong>Explore my repositories →</strong></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://tryhackme.com/p/Ahmad1258"><strong>Open my TryHackMe profile ↗</strong></a>
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ahmad12583719?style=flat-square&label=FOLLOWERS&labelColor=111827&color=00F0FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ahmad12583719?style=flat-square&label=STARS&labelColor=111827&color=2563EB" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/TRYHACKME-03%20PATHS%20COMPLETE-22C55E?style=flat-square&labelColor=111827" alt="Three TryHackMe paths complete" />
-</div>
-
-<hr />
-
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
       <h2>▸ identity.log</h2>
       <p>Hi, I’m <strong>Ahmad Raza</strong>—a cybersecurity learner and builder studying digital forensics, secure systems, and the craft of turning curious questions into useful software.</p>
-      <p>I enjoy projects that sit at the intersection of <strong>evidence, intelligence, and thoughtful interfaces</strong>. If it can be explored, tested, or made safer, I’m probably interested.</p>
+      <p>I enjoy work at the intersection of <strong>evidence, intelligence, and thoughtful interfaces</strong>. If it can be explored, tested, or made safer, I’m probably interested.</p>
       <blockquote>
         <p>Glad to have you here. Feel free to explore the work, inspect the code, and stay curious.</p>
       </blockquote>
     </td>
-    <td width="42%" valign="top">
+    <td width="40%" valign="top">
       <h2>▸ system.status</h2>
-      <p><code>● ONLINE / LEARNING / BUILDING</code></p>
-      <p><strong>Focus:</strong><br />Digital forensics & cybersecurity</p>
-      <p><strong>Primary environment:</strong><br />Linux · Python · JavaScript</p>
-      <p><strong>Operating principle:</strong><br />Make it useful. Make it understandable. Make it safer.</p>
+      <pre><code>USER      ahmad12583719
+MODE      LEARNING / BUILDING
+BASE      LINUX · PYTHON · JS
+MISSION   MAKE IT SAFER
+SIGNAL    [##################] 100%</code></pre>
     </td>
   </tr>
 </table>
 
-<h2>▸ signal_overview</h2>
+<h2>▸ signal_map</h2>
 
 <table>
   <tr>
@@ -74,7 +62,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmad12583719&hide_border=true&background=0A0A0A&ring=00F0FF&fire=22C55E&currStreakLabel=00F0FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Ahmad Raza's GitHub contribution streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad12583719&bg_color=0A0A0A&color=CBD5E1&line=00F0FF&point=22C55E&area=true&hide_border=true&custom_title=Contribution%20Signal%20Map" alt="Ahmad Raza's GitHub contribution signal map" width="92%" />
 </div>
 
 <h2>▸ tryhackme.profile</h2>
@@ -85,9 +73,6 @@
   </a>
   <a href="https://tryhackme.com/p/Ahmad1258">
     <img src="https://img.shields.io/badge/17-BADGES-2563EB?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=0A0A0A" alt="17 TryHackMe badges" />
-  </a>
-  <a href="https://tryhackme.com/p/Ahmad1258">
-    <img src="https://img.shields.io/badge/16%20DAY-STREAK-22C55E?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=0A0A0A" alt="16 day TryHackMe streak" />
   </a>
   <a href="https://tryhackme.com/p/Ahmad1258">
     <img src="https://img.shields.io/badge/111-COMPLETED%20ROOMS-F5C451?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=0A0A0A" alt="111 completed TryHackMe rooms" />
@@ -109,9 +94,7 @@
   <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/GOLD%20LEAGUE-1ST%20PLACE-F5C451?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="Gold League first place badge" /></a>
 </div>
 
-<h2>▸ tryhackme.training_log</h2>
-
-<p>Recently completed learning paths on <strong>TryHackMe</strong>, building the foundations for a practical cybersecurity journey.</p>
+<h3>▸ training_log</h3>
 
 <table>
   <thead>
