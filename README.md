@@ -13,7 +13,6 @@
       <p><strong>Hi, I’m Ahmad.</strong></p>
       <h1>Building toward stronger, safer systems.</h1>
       <p>My current focus is blue-team cybersecurity: growing my cybersecurity and digital-forensics knowledge while gaining practical, hands-on experience.</p>
-      <img src="./assets/intro-motion.svg?v=3" width="100%" alt="Animated introduction: building, learning, sharing" />
       <p>
         <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-0B1220?style=flat-square&logo=github&logoColor=F5F7F8&labelColor=0B1220" alt="View Ahmad's GitHub work" /></a>
         <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0B1220?style=flat-square&logo=linkedin&logoColor=5EEAD4&labelColor=0B1220" alt="Connect with Ahmad on LinkedIn" /></a>
@@ -31,7 +30,7 @@
 <div align="center">
   <img src="./assets/focus-map.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
   <br />
-  <sub><a href="./assets/focus-motion.svg?v=3">Open the animated focus map →</a></sub>
+  <sub>Blue Team · Cybersecurity · Digital Forensics · Practical Experience</sub>
 </div>
 
 <hr />
@@ -56,26 +55,28 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="./assets/skills-motion.svg?v=3" width="100%" alt="Animated matching-palette skills strip for Python, JavaScript, HTML, CSS, Linux, Git, Solidity, blue-team security, and digital forensics" />
-  <br />
-  <img src="./assets/skills-wall.png" width="100%" alt="Verified skills wall with more than twenty programming, systems, blue-team, forensics, networking, and web foundations" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite&amp;perline=9&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, and SQLite" />
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="33%" valign="top"><strong>Languages</strong><br /><sub>Python · JavaScript · Solidity · HTML · CSS</sub></td>
-    <td width="33%" valign="top"><strong>Systems</strong><br /><sub>Linux · Ubuntu · Git · SQLite · CLI tooling</sub></td>
-    <td width="33%" valign="top"><strong>Security & forensics</strong><br /><sub>Blue-team foundations · digital forensics · Wireshark · Metasploit · OWASP Top 10 · SQLMap</sub></td>
+    <td width="33%" valign="top"><strong>Languages / markup</strong><br /><sub>Python · JavaScript · Solidity · HTML · CSS</sub></td>
+    <td width="33%" valign="top"><strong>Systems / tools</strong><br /><sub>Linux · Ubuntu · Git · SQLite · CLI tooling · Bootstrap</sub></td>
+    <td width="33%" valign="top"><strong>Data / platforms</strong><br /><sub>NLP/ML · Ethereum · IPFS · web applications</sub></td>
   </tr>
 </table>
 
-<h2>Project signals</h2>
+<h3>Security foundations and practical exposure</h3>
 
-<div align="center">
-  <img src="./assets/project-strip.svg?v=3" width="100%" alt="Animated strip of selected projects" />
-</div>
+<p><code>Blue-team security</code> <code>Defensive security</code> <code>Digital forensics</code> <code>Packet analysis</code> <code>Wireshark</code> <code>Metasploit</code> <code>OWASP Top 10</code> <code>SQLMap</code> <code>Networking fundamentals</code> <code>Web fundamentals</code> <code>DNS</code> <code>HTTP</code> <code>LAN</code> <code>OSI model</code> <code>Packets / frames</code> <code>Linux fundamentals</code> <code>Metasploitable</code> <code>EternalBlue</code> <code>FlareVM</code> <code>World Wide Web</code> <code>Client-server systems</code> <code>Cloud fundamentals</code></p>
+
+<p><sub>These represent verified project technologies, foundations, and practical exposure—not inflated expert claims.</sub></p>
+
+<h2>Project highlights</h2>
+
+<p><sub>A small selection of projects across defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
 
 <h2>Selected work</h2>
 
