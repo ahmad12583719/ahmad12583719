@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Selected projects</title>
+  <desc id="desc">Animated project cards for Ubuntu Sentinel, ChainSeal, Spam Detection, and MediMart.</desc>
+  <rect width="1200" height="230" rx="18" fill="#090B0F"/>
+  <rect x="1" y="1" width="1198" height="228" rx="17" fill="none" stroke="#2B3439"/>
+  <text x="52" y="47" fill="#B8C4C8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="4">SELECTED WORK / SMALL SYSTEMS, REAL SIGNAL</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(45 78)">
+      <rect width="250" height="105" rx="12" fill="#11161B" stroke="#2B3439"/>
+      <rect width="250" height="3" rx="2" fill="#8FE3E8"><animate attributeName="width" values="40;250;40" dur="3.2s" repeatCount="indefinite"/></rect>
+      <text x="20" y="44" fill="#F5F7F8" font-size="18" font-weight="700">Ubuntu-Sentinel</text>
+      <text x="20" y="70" fill="#78858A" font-size="13">host systems · Python</text>
+      <circle cx="224" cy="75" r="5" fill="#8FE3E8"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(325 78)">
+      <rect width="250" height="105" rx="12" fill="#11161B" stroke="#2B3439"/>
+      <rect width="250" height="3" rx="2" fill="#8FE3E8"><animate attributeName="width" values="40;250;40" begin=".5s" dur="3.2s" repeatCount="indefinite"/></rect>
+      <text x="20" y="44" fill="#F5F7F8" font-size="18" font-weight="700">ChainSeal</text>
+      <text x="20" y="70" fill="#78858A" font-size="13">trust systems · JS / Solidity</text>
+      <circle cx="224" cy="75" r="5" fill="#8FE3E8"><animate attributeName="opacity" values="1;.2;1" begin=".5s" dur="1.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(605 78)">
+      <rect width="250" height="105" rx="12" fill="#11161B" stroke="#2B3439"/>
+      <rect width="250" height="3" rx="2" fill="#8FE3E8"><animate attributeName="width" values="40;250;40" begin="1s" dur="3.2s" repeatCount="indefinite"/></rect>
+      <text x="20" y="44" fill="#F5F7F8" font-size="18" font-weight="700">Spam Detection</text>
+      <text x="20" y="70" fill="#78858A" font-size="13">signals from language · ML</text>
+      <circle cx="224" cy="75" r="5" fill="#8FE3E8"><animate attributeName="opacity" values="1;.2;1" begin="1s" dur="1.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(885 78)">
+      <rect width="250" height="105" rx="12" fill="#11161B" stroke="#2B3439"/>
+      <rect width="250" height="3" rx="2" fill="#8FE3E8"><animate attributeName="width" values="40;250;40" begin="1.5s" dur="3.2s" repeatCount="indefinite"/></rect>
+      <text x="20" y="44" fill="#F5F7F8" font-size="18" font-weight="700">MediMart</text>
+      <text x="20" y="70" fill="#78858A" font-size="13">products · JS / HTML / CSS</text>
+      <circle cx="224" cy="75" r="5" fill="#8FE3E8"><animate attributeName="opacity" values="1;.2;1" begin="1.5s" dur="1.8s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Focus areas</title>
+  <desc id="desc">Animated visual map of product, systems, intelligence, and design.</desc>
+  <rect width="1200" height="250" rx="18" fill="#090B0F"/>
+  <rect x="1" y="1" width="1198" height="248" rx="17" fill="none" stroke="#2B3439"/>
+  <text x="55" y="52" fill="#B8C4C8" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">CURRENT FOCUS / 2026</text>
+  <path d="M80 168 C270 82, 410 212, 590 128 S910 66, 1120 164" fill="none" stroke="#2B3439" stroke-width="2"/>
+  <path d="M80 168 C270 82, 410 212, 590 128 S910 66, 1120 164" fill="none" stroke="#8FE3E8" stroke-width="3" stroke-dasharray="14 18" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="120" cy="153" r="13" fill="#090B0F" stroke="#8FE3E8" stroke-width="3">
+      <animate attributeName="r" values="11;16;11" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="84" y="207" fill="#F5F7F8" font-size="17">PRODUCT</text>
+    <text x="84" y="228" fill="#78858A" font-size="13">useful flows</text>
+    <circle cx="390" cy="148" r="13" fill="#090B0F" stroke="#8FE3E8" stroke-width="3">
+      <animate attributeName="r" values="11;16;11" dur="2.6s" begin=".65s" repeatCount="indefinite"/>
+    </circle>
+    <text x="346" y="207" fill="#F5F7F8" font-size="17">SYSTEMS</text>
+    <text x="346" y="228" fill="#78858A" font-size="13">reliable foundations</text>
+    <circle cx="650" cy="119" r="13" fill="#090B0F" stroke="#8FE3E8" stroke-width="3">
+      <animate attributeName="r" values="11;16;11" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="614" y="178" fill="#F5F7F8" font-size="17">INTELLIGENCE</text>
+    <text x="614" y="199" fill="#78858A" font-size="13">signals from data</text>
+    <circle cx="930" cy="102" r="13" fill="#090B0F" stroke="#8FE3E8" stroke-width="3">
+      <animate attributeName="r" values="11;16;11" dur="2.6s" begin="1.95s" repeatCount="indefinite"/>
+    </circle>
+    <text x="896" y="161" fill="#F5F7F8" font-size="17">DESIGN</text>
+    <text x="896" y="182" fill="#78858A" font-size="13">clarity by default</text>
+  </g>
+</svg>

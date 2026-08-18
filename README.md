@@ -13,6 +13,7 @@
       <p><strong>Hi, I’m Ahmad.</strong></p>
       <h1>Student developer building useful, thoughtful software.</h1>
       <p>I explore digital forensics, software engineering, and product design through practical projects that make complex ideas easier to understand.</p>
+      <img src="./assets/intro-motion.svg" width="100%" alt="Animated introduction: building, learning, sharing" />
       <p>
         <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-101418?style=flat-square&logo=github&logoColor=F5F7F8&labelColor=101418" alt="View Ahmad's GitHub work" /></a>
         <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-101418?style=flat-square&logo=linkedin&logoColor=8FE3E8&labelColor=101418" alt="Connect with Ahmad on LinkedIn" /></a>
@@ -58,6 +59,18 @@
   </tr>
 </table>
 
+<h2>Visual signals</h2>
+
+<div align="center">
+  <img src="./assets/focus-motion.svg" width="100%" alt="Animated map of current focus areas" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/project-strip.svg" width="100%" alt="Animated strip of selected projects" />
+</div>
+
 <h2>Selected work</h2>
 
 <table>
@@ -96,23 +109,6 @@
     </tr>
   </tbody>
 </table>
-
-<h2>Activity</h2>
-
-<div align="center">
-  <a href="https://github.com/ahmad12583719">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmad12583719&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=090B0F&title_color=F5F7F8&icon_color=8FE3E8&text_color=B8C4C8" alt="Ahmad Raza's GitHub statistics" />
-  </a>
-  <a href="https://github.com/ahmad12583719">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12583719&layout=compact&hide_border=true&langs_count=6&bg_color=090B0F&title_color=F5F7F8&text_color=B8C4C8" alt="Ahmad Raza's most used languages" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad12583719&bg_color=090B0F&color=B8C4C8&line=8FE3E8&point=F5F7F8&area=true&hide_border=true&custom_title=Recent%20work" alt="Ahmad Raza's GitHub activity graph" width="92%" />
-</div>
 
 <h2>Let’s connect</h2>
 
