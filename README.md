@@ -55,7 +55,7 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, and IPFS" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs,vscode,tryhackme,wazuh,burpsuite&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, IPFS, VS Code, TryHackMe, Wazuh, and Burp Suite" />
 </div>
 
 <br />
