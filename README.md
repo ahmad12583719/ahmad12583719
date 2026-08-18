@@ -28,7 +28,7 @@
 <p>My current focus is <strong>blue-team cybersecurity</strong>: building stronger cybersecurity and digital-forensics knowledge while gaining practical, hands-on experience.</p>
 
 <div align="center">
-  <img src="./assets/focus-map-static-v2.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
+  <img src="./assets/focus-map-final.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
   <br />
   <sub>Blue Team · Cybersecurity · Digital Forensics · Practical Experience</sub>
 </div>
