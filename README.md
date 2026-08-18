@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B0F,60:11161B,100:27383D&height=170&section=header&text=Ahmad%20Raza&fontSize=54&fontColor=F5F7F8&fontAlignY=40&desc=Student%20Developer%20%2F%2F%20Digital%20Products%20%2F%2F%20Curious%20Systems&descAlignY=64&descSize=14&descColor=B8C4C8&animation=fadeIn" alt="Ahmad Raza minimal portfolio header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:10233B,100:1B4660&height=170&section=header&text=Ahmad%20Raza&fontSize=54&fontColor=F5F7F8&fontAlignY=40&desc=Blue-team%20Security%20%2F%2F%20Digital%20Forensics%20%2F%2F%20Practical%20Learning&descAlignY=64&descSize=14&descColor=B7C6D8&animation=fadeIn" alt="Ahmad Raza minimal portfolio header" width="100%" />
 </div>
 
 <br />
@@ -11,18 +11,18 @@
     </td>
     <td width="70%" valign="middle">
       <p><strong>Hi, I’m Ahmad.</strong></p>
-      <h1>Student developer building useful, thoughtful software.</h1>
-      <p>I explore digital forensics, software engineering, and product design through practical projects that make complex ideas easier to understand.</p>
+      <h1>Building toward stronger, safer systems.</h1>
+      <p>My current focus is blue-team cybersecurity: growing my cybersecurity and digital-forensics knowledge while gaining practical, hands-on experience.</p>
       <img src="./assets/intro-motion.svg" width="100%" alt="Animated introduction: building, learning, sharing" />
       <p>
-        <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-101418?style=flat-square&logo=github&logoColor=F5F7F8&labelColor=101418" alt="View Ahmad's GitHub work" /></a>
-        <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-101418?style=flat-square&logo=linkedin&logoColor=8FE3E8&labelColor=101418" alt="Connect with Ahmad on LinkedIn" /></a>
+        <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-0B1220?style=flat-square&logo=github&logoColor=F5F7F8&labelColor=0B1220" alt="View Ahmad's GitHub work" /></a>
+        <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0B1220?style=flat-square&logo=linkedin&logoColor=5EEAD4&labelColor=0B1220" alt="Connect with Ahmad on LinkedIn" /></a>
       </p>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Curious by default · intentional by design · always learning</sub></p>
+<p align="center"><sub>Blue-team mindset · forensic curiosity · practical experience</sub></p>
 
 <hr />
 
@@ -31,12 +31,12 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <p>I’m a student developer with a growing focus on digital forensics, defensive systems, and well-made digital products. My work moves between Python tooling, JavaScript applications, machine-learning experiments, and interfaces designed to feel clear from the first interaction.</p>
-      <p>I care about strong fundamentals, useful outcomes, and leaving every project more understandable than I found it.</p>
+      <p>I’m a student developer focused on blue-team cybersecurity, digital forensics, and practical defensive learning. I build small systems and applications to understand how technology behaves, how evidence can be preserved, and how safer decisions can be made.</p>
+      <p>I care about strong fundamentals, real hands-on practice, useful outcomes, and leaving every project more understandable than I found it.</p>
     </td>
     <td width="38%" valign="top">
-      <p><strong>Currently exploring</strong></p>
-      <p><code>digital forensics</code><br /><code>defensive systems</code><br /><code>product engineering</code></p>
+      <p><strong>Current focus</strong></p>
+      <p><code>blue-team security</code><br /><code>cybersecurity knowledge</code><br /><code>digital forensics</code><br /><code>practical experience</code></p>
       <p><strong>Based around</strong></p>
       <p><code>Python · JavaScript · Linux</code></p>
     </td>
@@ -46,7 +46,7 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,solidity,linux,git,bootstrap&theme=dark" alt="Python, JavaScript, HTML, CSS, Solidity, Linux, Git, and Bootstrap" />
+  <img src="./assets/skills-motion.svg" width="100%" alt="Animated matching-palette skills strip for Python, JavaScript, HTML, CSS, Linux, Git, Solidity, blue-team security, and digital forensics" />
 </div>
 
 <br />
@@ -55,7 +55,7 @@
   <tr>
     <td width="33%" valign="top"><strong>Languages</strong><br /><sub>Python · JavaScript · Solidity · HTML · CSS</sub></td>
     <td width="33%" valign="top"><strong>Systems</strong><br /><sub>Linux · Ubuntu · Git · SQLite · CLI tooling</sub></td>
-    <td width="33%" valign="top"><strong>Applied skills</strong><br /><sub>Digital forensics · NLP/ML · Ethereum · IPFS · Bootstrap</sub></td>
+    <td width="33%" valign="top"><strong>Applied skills</strong><br /><sub>Blue-team fundamentals · digital forensics · NLP/ML · Ethereum · IPFS</sub></td>
   </tr>
 </table>
 
@@ -112,15 +112,15 @@
 
 <h2>Let’s connect</h2>
 
-<p>I’m always interested in thoughtful software, practical learning, and conversations that turn good ideas into useful work.</p>
+<p>I’m interested in blue-team practice, digital-forensics learning, thoughtful software, and conversations that turn good ideas into useful work.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-muhammad--ahmad--raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Ahmad Raza LinkedIn" /></a>
-  <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-ahmad12583719-101418?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ahmad Raza GitHub" /></a>
+  <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-ahmad12583719-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ahmad Raza GitHub" /></a>
 </p>
 
 <hr />
 
 <div align="center">
-  <sub>Designed with restraint. Built with curiosity. Updated as the work evolves.</sub>
+  <sub>Blue-team mindset. Practical learning. Built with intention.</sub>
 </div>
