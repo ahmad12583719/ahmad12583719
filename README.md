@@ -31,7 +31,7 @@
 <div align="center">
   <img src="./assets/focus-map.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
   <br />
-  <img src="./assets/focus-motion.svg?v=3" width="100%" alt="Animated map of current focus areas: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
+  <sub><a href="./assets/focus-motion.svg?v=3">Open the animated focus map →</a></sub>
 </div>
 
 <hr />
