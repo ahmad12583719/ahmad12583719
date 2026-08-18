@@ -1,208 +1,146 @@
-<!-- Ahmad Raza's username-matching GitHub profile repository -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111827,100:0E7490&height=210&section=header&text=Ahmad%20Raza%20%7C%20Digital%20Fortress&fontColor=00F0FF&fontSize=34&fontAlignY=38&desc=Digital%20Forensics%20%7C%20Cybersecurity%20%7C%20Full-stack%20Experiments&descAlignY=59&descColor=CBD5E1&animation=fadeIn" alt="Ahmad Raza digital fortress banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,45:171329,75:3B2E63,100:00C2D1&height=230&section=header&text=Ahmad%20Raza&fontSize=66&fontColor=FFFFFF&fontAlignY=38&desc=Student%20Developer%20%2F%2F%20Digital%20Products%20%2F%2F%20Security-minded%20Systems&descAlignY=62&descSize=17&descColor=CBD5E1&animation=fadeIn" alt="Ahmad Raza creative profile header" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/ahmad12583719.png?size=220" width="138" alt="Ahmad Raza's profile avatar" />
+  <img src="https://github.com/ahmad12583719.png?size=240" width="150" alt="Ahmad Raza profile photo" />
   <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED+%2F%2F+WELCOME+TO+THE+FORTRESS;Investigate.+Build.+Verify.;Securing+the+digital+realm%2C+one+line+of+code+at+a+time." alt="Animated profile introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&duration=3200&pause=1200&color=00C2D1&center=true&vCenter=true&width=680&lines=I+build+useful+things+with+curiosity.;Digital+forensics+meets+clean+product+design.;Learning+deeply.+Shipping+thoughtfully." alt="Animated introduction" />
   <br /><br />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&labelColor=0A0A0A" alt="Active status" />
-  <img src="https://img.shields.io/badge/FOCUS-DIGITAL%20FORENSICS-00F0FF?style=for-the-badge&labelColor=0A0A0A" alt="Digital forensics focus" />
-  <img src="https://img.shields.io/badge/CLEARANCE-CYBER%20CURIOUS-2563EB?style=for-the-badge&labelColor=0A0A0A" alt="Cyber curious clearance" />
+  <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-ahmad12583719-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=171329" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="LinkedIn profile" /></a>
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h2>▸ identity.log</h2>
-      <p>Hi, I’m <strong>Ahmad Raza</strong>—a cybersecurity learner and builder studying digital forensics, secure systems, and the craft of turning curious questions into useful software.</p>
-      <p>I enjoy work at the intersection of <strong>evidence, intelligence, and thoughtful interfaces</strong>. If it can be explored, tested, or made safer, I’m probably interested.</p>
-      <blockquote>
-        <p>Glad to have you here. Feel free to explore the work, inspect the code, and stay curious.</p>
-      </blockquote>
+    <td width="62%" valign="top">
+      <h2>About me</h2>
+      <p>I’m <strong>Ahmad Raza</strong>, a student developer exploring the space between digital forensics, software engineering, and well-made digital products.</p>
+      <p>My work moves from <strong>Python security tooling</strong> to JavaScript applications, machine-learning experiments, and interfaces that make complicated ideas easier to use.</p>
+      <p>I care about learning the fundamentals, building in public, and leaving every project clearer than I found it.</p>
     </td>
-    <td width="40%" valign="top">
-      <h2>▸ system.status</h2>
-      <pre><code>USER      ahmad12583719
-MODE      LEARNING / BUILDING
-BASE      LINUX · PYTHON · JS
-MISSION   MAKE IT SAFER
-SIGNAL    [##################] 100%</code></pre>
+    <td width="38%" valign="top">
+      <h2>Now</h2>
+      <p><code>● LEARNING / BUILDING</code></p>
+      <p><strong>Exploring</strong><br />Digital forensics, defensive systems, product engineering</p>
+      <p><strong>Building with</strong><br />Python, JavaScript, HTML, CSS, Linux</p>
+      <p><strong>Mindset</strong><br />Curious by default. Intentional by design.</p>
     </td>
   </tr>
 </table>
 
-<h2>▸ signal_map</h2>
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>01</strong><br /><sub>FORENSICS</sub><br /><br /><code>INVESTIGATE</code></td>
-    <td align="center" width="25%"><strong>02</strong><br /><sub>DEFENSE</sub><br /><br /><code>MONITOR</code></td>
-    <td align="center" width="25%"><strong>03</strong><br /><sub>BUILDING</sub><br /><br /><code>SHIP</code></td>
-    <td align="center" width="25%"><strong>04</strong><br /><sub>LEARNING</sub><br /><br /><code>VERIFY</code></td>
-  </tr>
-</table>
-
-<h2>▸ activity.dashboard</h2>
+<h2>My visual toolkit</h2>
 
 <div align="center">
-  <a href="https://github.com/ahmad12583719">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmad12583719&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0A0A&title_color=00F0FF&icon_color=2563EB&text_color=CBD5E1&ring_color=22C55E" alt="Ahmad Raza's GitHub statistics" />
-  </a>
-  <a href="https://github.com/ahmad12583719">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12583719&layout=compact&hide_border=true&langs_count=7&bg_color=0A0A0A&title_color=00F0FF&text_color=CBD5E1" alt="Ahmad Raza's most used languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,solidity,linux,git,bootstrap&theme=dark" alt="Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad12583719&bg_color=0A0A0A&color=CBD5E1&line=00F0FF&point=22C55E&area=true&hide_border=true&custom_title=Contribution%20Signal%20Map" alt="Ahmad Raza's GitHub contribution signal map" width="92%" />
+  <img src="https://img.shields.io/badge/Python-0B0B12?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0B0B12?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0B0B12?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0B0B12?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Solidity-0B0B12?style=flat-square&logo=solidity&logoColor=FFFFFF" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Linux-0B0B12?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0B0B12?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Bootstrap-0B0B12?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 </div>
 
-<h2>▸ tryhackme.profile</h2>
-
-<div align="center">
-  <a href="https://tryhackme.com/p/Ahmad1258">
-    <img src="https://img.shields.io/badge/TOP%205%25-RANK%20110400-00F0FF?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=0A0A0A" alt="TryHackMe top 5 percent rank 110400" />
-  </a>
-  <a href="https://tryhackme.com/p/Ahmad1258">
-    <img src="https://img.shields.io/badge/17-BADGES-2563EB?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=0A0A0A" alt="17 TryHackMe badges" />
-  </a>
-  <a href="https://tryhackme.com/p/Ahmad1258">
-    <img src="https://img.shields.io/badge/111-COMPLETED%20ROOMS-F5C451?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=0A0A0A" alt="111 completed TryHackMe rooms" />
-  </a>
-</div>
-
-<p align="center"><sub>Hands-on learning, measurable progress, and a growing security mindset.</sub></p>
-
-<h3>▸ achievement_wall</h3>
-
-<div align="center">
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/3%20DAY%20STREAK-ACHIEVED-22C55E?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="3 Day Streak badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/7%20DAY%20STREAK-ACHIEVED-22C55E?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="7 Day Streak badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/NETWORKING%20NERD-EARNED-E63946?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="Networking Nerd badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/WIRESHARK-EARNED-2563EB?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="Wireshark badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/OWASP%20TOP%2010-EARNED-2563EB?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="OWASP Top 10 badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/METASPLOITABLE-EARNED-00F0FF?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="Metasploitable badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/CAT%20LINUX.TXT-EARNED-64748B?style=flat-square&logo=linux&logoColor=FFFFFF&labelColor=111827" alt="cat linux.txt badge" /></a>
-  <a href="https://tryhackme.com/p/Ahmad1258"><img src="https://img.shields.io/badge/GOLD%20LEAGUE-1ST%20PLACE-F5C451?style=flat-square&logo=tryhackme&logoColor=FFFFFF&labelColor=111827" alt="Gold League first place badge" /></a>
-</div>
-
-<h3>▸ training_log</h3>
+<h2>What I like to build</h2>
 
 <table>
-  <thead>
-    <tr>
-      <th>Path</th>
-      <th>State</th>
-      <th>Signal gained</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://tryhackme.com/path/outline/presecurity"><strong>Pre Security</strong></a></td>
-      <td><code>COMPLETED</code></td>
-      <td>Core technology, networking, and web foundations.</td>
-    </tr>
-    <tr>
-      <td><a href="https://tryhackme.com/path/outline/presecuritylegacy"><strong>Pre Security (Legacy)</strong></a></td>
-      <td><code>COMPLETED</code></td>
-      <td>Foundational cybersecurity, Linux, Windows, and networking concepts.</td>
-    </tr>
-    <tr>
-      <td><a href="https://tryhackme.com/path/outline/cybersecurity101"><strong>Cyber Security 101</strong></a></td>
-      <td><code>COMPLETED</code></td>
-      <td>A practical introduction to the core skills behind cybersecurity.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 / Product</h3>
+      <p>Responsive web experiences, useful workflows, and interfaces that make the first interaction feel obvious.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 / Intelligence</h3>
+      <p>Machine-learning and NLP experiments that turn messy inputs into signals people can understand.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 / Systems</h3>
+      <p>Linux tooling, monitoring concepts, digital evidence, and practical ways to make software more dependable.</p>
+    </td>
+  </tr>
 </table>
 
-<h2>▸ ls ./projects</h2>
+<h2>Selected work</h2>
 
 <table>
   <thead>
     <tr>
       <th>Project</th>
-      <th>Signal</th>
-      <th>Brief</th>
+      <th>Built with</th>
+      <th>The idea</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/ahmad12583719/Ubuntu-Sentinel"><strong>Ubuntu-Sentinel</strong></a></td>
-      <td><code>HOST / SOC</code></td>
-      <td>A locally-run host SOC and intrusion-detection system for Ubuntu.</td>
+      <td><code>Python</code></td>
+      <td>A locally-run host monitoring and intrusion-detection system for Ubuntu.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/TuxGuard"><strong>TuxGuard</strong></a></td>
-      <td><code>DEFENSE / PY</code></td>
-      <td>A security-focused Python project exploring practical defensive tooling.</td>
+      <td><code>Python</code></td>
+      <td>A security-focused project exploring practical defensive tooling.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/ChainSeal"><strong>ChainSeal</strong></a></td>
-      <td><code>TRUST / WEB3</code></td>
-      <td>Decentralized academic credential verification using Ethereum and IPFS.</td>
+      <td><code>JS · Solidity</code></td>
+      <td>Academic credential verification using Ethereum and IPFS.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/Spam_Detection"><strong>Spam_Detection</strong></a></td>
-      <td><code>ML / NLP</code></td>
-      <td>Machine-learning classification for separating spam from legitimate messages.</td>
+      <td><code>Python · NLP</code></td>
+      <td>Machine-learning classification for spam and legitimate messages.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/MediMart"><strong>MediMart</strong></a></td>
-      <td><code>SECURE / WEB</code></td>
-      <td>A role-based e-commerce platform for online pharmacy management.</td>
+      <td><code>JS · HTML · CSS</code></td>
+      <td>A role-based online-pharmacy e-commerce experience.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ahmad12583719/Quill"><strong>Quill</strong></a></td>
+      <td><code>JavaScript</code></td>
+      <td>A lightweight note-taking application for organized thinking.</td>
     </tr>
   </tbody>
 </table>
 
-<h2>▸ focus --now</h2>
-
-```text
-> cat /etc/focus
-[01] Digital forensics workflows and evidence integrity
-[02] Host monitoring, anomaly detection, and defensive security
-[03] Secure full-stack applications with calm, accessible interfaces
-[04] Learning in public without making the internet noisier
-```
-
-<h2>▸ toolkit</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00F0FF" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=22C55E" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
-  <img src="https://img.shields.io/badge/Digital%20Forensics-0A0A0A?style=flat-square&logo=protonmail&logoColor=00F0FF" alt="Digital forensics" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=flat-square&logo=letsencrypt&logoColor=22C55E" alt="Cybersecurity" />
-</p>
-
-<details>
-  <summary><strong>Open the field notes</strong></summary>
-  <br />
-  <p>Every repository is a small lab: a place to test ideas, make mistakes safely, and leave the next iteration a little clearer than the last one. Suggestions, issues, and thoughtful collaboration are welcome.</p>
-</details>
-
-<h2>▸ establish_connection</h2>
-
-<p>
-  <a href="https://github.com/ahmad12583719">
-    <img src="https://img.shields.io/badge/GitHub-ahmad12583719-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
-  </a>
-  <a href="https://tryhackme.com/p/Ahmad1258">
-    <img src="https://img.shields.io/badge/TryHackMe-Ahmad1258-111827?style=for-the-badge&logo=tryhackme&logoColor=22C55E" alt="TryHackMe profile" />
-  </a>
-</p>
-
-<hr />
+<h2>GitHub, in motion</h2>
 
 <div align="center">
-  <p><code>Stay curious. Verify everything. Build with intent.</code></p>
-  <p><sub>Thanks for stopping by. The best security work starts with better questions.</sub></p>
+  <a href="https://github.com/ahmad12583719">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad12583719&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0B12&title_color=00C2D1&icon_color=9B8AFB&text_color=CBD5E1" alt="Ahmad Raza GitHub statistics" />
+  </a>
+  <a href="https://github.com/ahmad12583719">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12583719&layout=compact&hide_border=true&langs_count=7&bg_color=0B0B12&title_color=00C2D1&text_color=CBD5E1" alt="Ahmad Raza top languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad12583719&bg_color=0B0B12&color=CBD5E1&line=00C2D1&point=9B8AFB&area=true&hide_border=true&custom_title=Recent%20work%20%2F%2F%20quietly%20compounding" alt="Ahmad Raza contribution activity graph" width="94%" />
+</div>
+
+<h2>Let’s connect</h2>
+
+<p>If you’re interested in thoughtful software, learning by building, or exchanging ideas about digital products and security, I’d be happy to connect.</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-muhammad--ahmad--raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Ahmad Raza LinkedIn" /></a>
+  <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-ahmad12583719-171329?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ahmad Raza GitHub" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed with restraint. Built with curiosity. Updated as the work evolves.</sub>
 </div>
