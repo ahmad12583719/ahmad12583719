@@ -1,15 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,45:171329,75:3B2E63,100:00C2D1&height=230&section=header&text=Ahmad%20Raza&fontSize=66&fontColor=FFFFFF&fontAlignY=38&desc=Student%20Developer%20%2F%2F%20Digital%20Products%20%2F%2F%20Security-minded%20Systems&descAlignY=62&descSize=17&descColor=CBD5E1&animation=fadeIn" alt="Ahmad Raza creative profile header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,45:171329,75:3B2E63,100:00C2D1&height=230&section=header&text=Ahmad%20Raza&fontSize=66&fontColor=FFFFFF&fontAlignY=38&desc=Student%20Developer%20%2F%2F%20Digital%20Products%20%2F%2F%20Curious%20Systems&descAlignY=62&descSize=17&descColor=CBD5E1&animation=fadeIn" alt="Ahmad Raza creative profile header" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/ahmad12583719.png?size=240" width="150" alt="Ahmad Raza profile photo" />
-  <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&duration=3200&pause=1200&color=00C2D1&center=true&vCenter=true&width=680&lines=I+build+useful+things+with+curiosity.;Digital+forensics+meets+clean+product+design.;Learning+deeply.+Shipping+thoughtfully." alt="Animated introduction" />
-  <br /><br />
-  <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-ahmad12583719-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=171329" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="LinkedIn profile" /></a>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <img src="./assets/ahmad-raza-portrait.jpg" width="220" alt="Ahmad Raza professional portrait" />
+    </td>
+    <td width="66%" valign="middle">
+      <h1>Ahmad Raza</h1>
+      <p><strong>Student Developer · Digital Products · Curious Systems</strong></p>
+      <p><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&duration=3200&pause=1200&color=00C2D1&center=false&vCenter=true&width=620&lines=I+build+useful+things+with+curiosity.;Digital+forensics+meets+clean+product+design.;Learning+deeply.+Shipping+thoughtfully." alt="Animated introduction" /></p>
+      <p>
+        <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-ahmad12583719-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=171329" alt="GitHub profile" /></a>
+        <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="LinkedIn profile" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
