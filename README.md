@@ -13,7 +13,7 @@
       <p><strong>Hi, I’m Ahmad.</strong></p>
       <h1>Building toward stronger, safer systems.</h1>
       <p>My current focus is blue-team cybersecurity: growing my cybersecurity and digital-forensics knowledge while gaining practical, hands-on experience.</p>
-      <img src="./assets/intro-motion.svg" width="100%" alt="Animated introduction: building, learning, sharing" />
+      <img src="./assets/intro-motion.svg?v=3" width="100%" alt="Animated introduction: building, learning, sharing" />
       <p>
         <a href="https://github.com/ahmad12583719"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-0B1220?style=flat-square&logo=github&logoColor=F5F7F8&labelColor=0B1220" alt="View Ahmad's GitHub work" /></a>
         <a href="https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0B1220?style=flat-square&logo=linkedin&logoColor=5EEAD4&labelColor=0B1220" alt="Connect with Ahmad on LinkedIn" /></a>
@@ -31,7 +31,7 @@
 <div align="center">
   <img src="./assets/focus-map.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
   <br />
-  <img src="./assets/focus-motion.svg" width="100%" alt="Animated map of current focus areas: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
+  <img src="./assets/focus-motion.svg?v=3" width="100%" alt="Animated map of current focus areas: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
 </div>
 
 <hr />
@@ -56,7 +56,7 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="./assets/skills-motion.svg" width="100%" alt="Animated matching-palette skills strip for Python, JavaScript, HTML, CSS, Linux, Git, Solidity, blue-team security, and digital forensics" />
+  <img src="./assets/skills-motion.svg?v=3" width="100%" alt="Animated matching-palette skills strip for Python, JavaScript, HTML, CSS, Linux, Git, Solidity, blue-team security, and digital forensics" />
   <br />
   <img src="./assets/skills-wall.png" width="100%" alt="Verified skills wall with more than twenty programming, systems, blue-team, forensics, networking, and web foundations" />
 </div>
@@ -74,7 +74,7 @@
 <h2>Project signals</h2>
 
 <div align="center">
-  <img src="./assets/project-strip.svg" width="100%" alt="Animated strip of selected projects" />
+  <img src="./assets/project-strip.svg?v=3" width="100%" alt="Animated strip of selected projects" />
 </div>
 
 <h2>Selected work</h2>
