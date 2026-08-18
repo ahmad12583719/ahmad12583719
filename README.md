@@ -28,7 +28,7 @@
 <p>My current focus is <strong>blue-team cybersecurity</strong>: building stronger cybersecurity and digital-forensics knowledge while gaining practical, hands-on experience.</p>
 
 <div align="center">
-  <img src="./assets/focus-map.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
+  <img src="./assets/focus-map-static-v2.png" width="100%" alt="Current focus map: Blue Team, Cybersecurity, Forensics, and Practical Experience" />
   <br />
   <sub>Blue Team · Cybersecurity · Digital Forensics · Practical Experience</sub>
 </div>
@@ -55,7 +55,7 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite&amp;perline=9&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, and SQLite" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, and IPFS" />
 </div>
 
 <br />
