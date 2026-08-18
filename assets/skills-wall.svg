@@ -7,7 +7,7 @@
   <text x="52" y="76" fill="#B7C6D8" font-family="Arial, Helvetica, sans-serif" font-size="14">Public projects + completed hands-on learning · foundations and practical exposure</text>
   <path d="M52 98H1148" stroke="#23334A"/>
   <g font-family="monospace" font-size="14" font-weight="700">
-    <text x="52" y="132" fill="#5EEAD4">LANGUAGES & MARKUP</text>
+    <text x="52" y="132" fill="#5EEAD4">LANGUAGES &amp; MARKUP</text>
     <g transform="translate(52 150)"><rect width="102" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="23" y="22" fill="#5EEAD4">PYTHON</text></g>
     <g transform="translate(166 150)"><rect width="126" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="15" y="22" fill="#5EEAD4">JAVASCRIPT</text></g>
     <g transform="translate(304 150)"><rect width="74" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="18" y="22" fill="#5EEAD4">HTML</text></g>
@@ -16,7 +16,7 @@
     <g transform="translate(594 150)"><rect width="118" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="16" y="22" fill="#5EEAD4">BOOTSTRAP</text></g>
     <g transform="translate(724 150)"><rect width="100" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="17" y="22" fill="#5EEAD4">NLP / ML</text></g>
 
-    <text x="52" y="230" fill="#5EEAD4">SYSTEMS & DATA</text>
+    <text x="52" y="230" fill="#5EEAD4">SYSTEMS &amp; DATA</text>
     <g transform="translate(52 248)"><rect width="94" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="17" y="22" fill="#5EEAD4">LINUX</text></g>
     <g transform="translate(158 248)"><rect width="104" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="19" y="22" fill="#5EEAD4">UBUNTU</text></g>
     <g transform="translate(274 248)"><rect width="70" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="20" y="22" fill="#5EEAD4">GIT</text></g>
@@ -26,7 +26,7 @@
     <g transform="translate(716 248)"><rect width="76" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="19" y="22" fill="#5EEAD4">IPFS</text></g>
     <g transform="translate(804 248)"><rect width="120" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="14" y="22" fill="#5EEAD4">WEB APPS</text></g>
 
-    <text x="52" y="328" fill="#5EEAD4">BLUE TEAM & FORENSICS</text>
+    <text x="52" y="328" fill="#5EEAD4">BLUE TEAM &amp; FORENSICS</text>
     <g transform="translate(52 346)"><rect width="118" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="14" y="22" fill="#5EEAD4">BLUE TEAM</text></g>
     <g transform="translate(182 346)"><rect width="152" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="14" y="22" fill="#5EEAD4">DEFENSIVE SEC</text></g>
     <g transform="translate(346 346)"><rect width="148" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="13" y="22" fill="#5EEAD4">DIGITAL FORENSICS</text></g>
@@ -35,7 +35,7 @@
     <g transform="translate(802 346)"><rect width="126" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="13" y="22" fill="#5EEAD4">OWASP TOP 10</text></g>
     <g transform="translate(940 346)"><rect width="114" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="13" y="22" fill="#5EEAD4">SQLMAP</text></g>
 
-    <text x="52" y="426" fill="#5EEAD4">NETWORKING & WEB FOUNDATIONS</text>
+    <text x="52" y="426" fill="#5EEAD4">NETWORKING &amp; WEB FOUNDATIONS</text>
     <g transform="translate(52 444)"><rect width="126" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="13" y="22" fill="#5EEAD4">NETWORKING</text></g>
     <g transform="translate(190 444)"><rect width="70" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="19" y="22" fill="#5EEAD4">DNS</text></g>
     <g transform="translate(272 444)"><rect width="76" height="34" rx="17" fill="#10233B" stroke="#35506D"/><text x="21" y="22" fill="#5EEAD4">HTTP</text></g>

@@ -58,7 +58,7 @@
 <div align="center">
   <img src="./assets/skills-motion.svg" width="100%" alt="Animated matching-palette skills strip for Python, JavaScript, HTML, CSS, Linux, Git, Solidity, blue-team security, and digital forensics" />
   <br />
-  <img src="./assets/skills-wall.svg" width="100%" alt="Animated verified skills wall with more than twenty programming, systems, blue-team, forensics, networking, and web foundations" />
+  <img src="./assets/skills-wall.png" width="100%" alt="Verified skills wall with more than twenty programming, systems, blue-team, forensics, networking, and web foundations" />
 </div>
 
 <br />
