@@ -76,7 +76,7 @@
 
 <h2>Project highlights</h2>
 
-<p><sub>A small selection of projects across defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
+<p><sub>A small selection of projects across local-first security tooling, defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
 
 <h2>Selected work</h2>
 
@@ -89,6 +89,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/ahmad12583719/sitesentry"><strong>SiteSentry</strong></a></td>
+      <td>A local-first web security inspection tool that checks permitted public targets, evaluates TLS, headers, common ports, and exposed paths, then produces a deterministic A–F report with remediation guidance.</td>
+      <td><code>TypeScript · React · Vite</code></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/Ubuntu-Sentinel"><strong>Ubuntu-Sentinel</strong></a></td>
       <td>A locally-run host monitoring and intrusion-detection system for Ubuntu.</td>
