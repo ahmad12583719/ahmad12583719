@@ -76,7 +76,7 @@
 
 <h2>Project highlights</h2>
 
-<p><sub>A small selection of projects across privacy-first security tools, local-first inspection, defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
+<p><sub>A small selection of projects across local-only secret scanning, privacy-first security tools, local-first inspection, defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
 
 <h2>Selected work</h2>
 
@@ -89,6 +89,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/ahmad12583719/gitsecretscan"><strong>GitSecretScan</strong></a></td>
+      <td>A local-only CLI that scans complete Git commit history for leaked secrets, API keys, and credentials with redacted findings, JSON output, ignore rules, and CI/pre-commit integration—without external API calls or telemetry.</td>
+      <td><code>Python · Git · CLI</code></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/password-breach-checker"><strong>Harbor Checkpoint</strong></a></td>
       <td>A privacy-first local password-strength and breach-exposure checker. It performs analysis in the browser and uses k-anonymity for optional breach lookups without storing or logging passwords.</td>
