@@ -55,22 +55,22 @@
 <h2>Skills & tools</h2>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs,react,vite,vscode,tryhackme,burpsuite,wireshark,kali,windows&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, IPFS, React, Vite, VS Code, TryHackMe, Burp Suite, Wireshark, Kali Linux, and Windows" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,js,html,css,solidity,linux,git,bootstrap,sqlite,ubuntu,github,ethereum,ipfs,react,vite,tailwindcss,expressjs,axios,vitest,vscode,tryhackme,burpsuite,wireshark,kali,windows&amp;perline=7&amp;theme=dark" alt="Verified technology logos: Python, TypeScript, JavaScript, HTML, CSS, Solidity, Linux, Git, Bootstrap, SQLite, Ubuntu, GitHub, Ethereum, IPFS, React, Vite, Tailwind CSS, Express, Axios, Vitest, VS Code, TryHackMe, Burp Suite, Wireshark, Kali Linux, and Windows" />
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="33%" valign="top"><strong>Languages / markup</strong><br /><sub>Python · JavaScript · Solidity · HTML · CSS</sub></td>
-    <td width="33%" valign="top"><strong>Systems / tools</strong><br /><sub>Linux · Ubuntu · Git · SQLite · CLI tooling · Bootstrap · VS Code</sub></td>
-    <td width="33%" valign="top"><strong>Web / platforms</strong><br /><sub>React · Vite · NLP/ML · Ethereum · IPFS · web applications</sub></td>
+    <td width="33%" valign="top"><strong>Languages / markup</strong><br /><sub>Python · TypeScript · JavaScript · Solidity · HTML · CSS</sub></td>
+    <td width="33%" valign="top"><strong>Systems / tools</strong><br /><sub>Linux · Ubuntu · Git · SQLite · CLI tooling · Bootstrap · VS Code · Vitest</sub></td>
+    <td width="33%" valign="top"><strong>Web / platforms</strong><br /><sub>React · Vite · Tailwind CSS · Express · Axios · NLP/ML · Ethereum · IPFS</sub></td>
   </tr>
 </table>
 
 <h3>Security foundations and practical exposure</h3>
 
-<p><code>Blue-team security</code> <code>Defensive security</code> <code>Digital forensics</code> <code>Packet analysis</code> <code>Wireshark</code> <code>Metasploit</code> <code>OWASP Top 10</code> <code>SQLMap</code> <code>Networking fundamentals</code> <code>Web fundamentals</code> <code>DNS</code> <code>HTTP</code> <code>LAN</code> <code>OSI model</code> <code>Packets / frames</code> <code>Linux fundamentals</code> <code>Metasploitable</code> <code>EternalBlue</code> <code>FlareVM</code> <code>World Wide Web</code> <code>Client-server systems</code> <code>Cloud fundamentals</code> <code>Windows fundamentals</code></p>
+<p><code>Blue-team security</code> <code>Defensive security</code> <code>Digital forensics</code> <code>Packet analysis</code> <code>Wireshark</code> <code>Metasploit</code> <code>OWASP Top 10</code> <code>SQLMap</code> <code>Networking fundamentals</code> <code>Web fundamentals</code> <code>DNS</code> <code>HTTP</code> <code>LAN</code> <code>OSI model</code> <code>Packets / frames</code> <code>Linux fundamentals</code> <code>Metasploitable</code> <code>EternalBlue</code> <code>FlareVM</code> <code>World Wide Web</code> <code>Client-server systems</code> <code>Cloud fundamentals</code> <code>Windows fundamentals</code> <code>TLS inspection</code> <code>HTTP security headers</code> <code>Public port inspection</code> <code>Deterministic scoring</code> <code>Password entropy analysis</code> <code>Pattern detection</code> <code>SHA-1 range lookup</code> <code>K-anonymity</code> <code>Privacy-first design</code> <code>Local-first architecture</code></p>
 
 <p><sub>These represent verified project technologies, foundations, and practical exposure—not inflated expert claims.</sub></p>
 
