@@ -95,31 +95,6 @@
       <td><code>TypeScript · React · Vite · Tauri · Capacitor</code></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ahmad12583719/gitsecretscan"><strong>GitSecretScan</strong></a></td>
-      <td>A local-only CLI that scans complete Git commit history for leaked secrets, API keys, and credentials with redacted findings, JSON output, ignore rules, and CI/pre-commit integration—without external API calls or telemetry.</td>
-      <td><code>Python · Git · CLI</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ahmad12583719/password-breach-checker"><strong>Harbor Checkpoint</strong></a></td>
-      <td>A privacy-first local password-strength and breach-exposure checker. It performs analysis in the browser and uses k-anonymity for optional breach lookups without storing or logging passwords.</td>
-      <td><code>TypeScript · React · Vite</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ahmad12583719/sitesentry"><strong>SiteSentry</strong></a></td>
-      <td>A local-first web security inspection tool that checks permitted public targets, evaluates TLS, headers, common ports, and exposed paths, then produces a deterministic A–F report with remediation guidance.</td>
-      <td><code>TypeScript · React · Vite</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ahmad12583719/Ubuntu-Sentinel"><strong>Ubuntu-Sentinel</strong></a></td>
-      <td>A locally-run host monitoring and intrusion-detection system for Ubuntu.</td>
-      <td><code>Python</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ahmad12583719/TuxGuard"><strong>TuxGuard</strong></a></td>
-      <td>A security-focused project exploring practical defensive tooling.</td>
-      <td><code>Python</code></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ahmad12583719/ChainSeal"><strong>ChainSeal</strong></a></td>
       <td>A decentralized academic credential verifier using Ethereum and IPFS.</td>
       <td><code>JS · Solidity</code></td>
