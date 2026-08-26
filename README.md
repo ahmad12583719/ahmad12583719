@@ -76,7 +76,7 @@
 
 <h2>Project highlights</h2>
 
-<p><sub>A small selection of projects across local-only secret scanning, privacy-first security tools, local-first inspection, defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
+<p><sub>A small selection of projects across offline-first products, local-only secret scanning, privacy-first security tools, local-first inspection, defensive systems, digital evidence, machine learning, and product engineering.</sub></p>
 
 <h2>Selected work</h2>
 
@@ -89,6 +89,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/ahmad12583719/CampusNode"><strong>CampusNode</strong></a></td>
+      <td>An offline-first, privacy-focused student planner with schedules, assignments, calendar, notes, and native desktop and Android apps.</td>
+      <td><code>TypeScript · React · Vite · Tauri · Capacitor</code></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ahmad12583719/gitsecretscan"><strong>GitSecretScan</strong></a></td>
       <td>A local-only CLI that scans complete Git commit history for leaked secrets, API keys, and credentials with redacted findings, JSON output, ignore rules, and CI/pre-commit integration—without external API calls or telemetry.</td>
